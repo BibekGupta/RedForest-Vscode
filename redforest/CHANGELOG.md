@@ -2,8 +2,9 @@
 
 All notable changes to the "redforest" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+[https://github.com/BibekGupta/RedForest-Vscode/blob/main/redforest/CHANGELOG.md]
 
-## [Unreleased]
+## [RedForest]
 
-- Initial release
+- Initial release 0.0.1
+- Added Some ReadMe 0.0.2
