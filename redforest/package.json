@@ -17,5 +17,24 @@
         "path": "./themes/RedForest By Bib-color-theme.json"
       }
     ]
-  }
+  },
+  "main": "RedForest By Bib-color-theme.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BibekGupta/RedForest-Vscode.git"
+  },
+  "keywords": [
+    "Red",
+    "Black",
+    "VsCode"
+  ],
+  "author": "BibekTheLegend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BibekGupta/RedForest-Vscode/issues"
+  },
+  "homepage": "https://github.com/BibekGupta/RedForest-Vscode#readme"
 }
