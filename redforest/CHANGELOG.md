@@ -8,3 +8,4 @@ All notable changes to the "redforest" extension will be documented in this file
 
 - Initial release 0.0.1
 - Added Some ReadMe 0.0.2
+- Fixed Status Bar Color & Logo 0.0.3
