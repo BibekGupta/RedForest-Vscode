@@ -1,0 +1,21 @@
+{
+  "name": "redforest",
+  "displayName": "RedForest",
+  "description": "A Red And Black Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RedForest By Bib",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RedForest By Bib-color-theme.json"
+      }
+    ]
+  }
+}
