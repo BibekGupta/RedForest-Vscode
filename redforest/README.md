@@ -13,5 +13,5 @@
 
 ## Installation
 
-Easy Install With One Click :D
+Easy Install With One Click
 
