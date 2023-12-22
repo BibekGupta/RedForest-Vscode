@@ -14,5 +14,3 @@
 ## Installation
 
 Easy Install With One Click
-
-TTTTTtttttttttatu
