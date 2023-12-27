@@ -1,8 +1,3 @@
-#Red and Black Theme for Visual Studio Code
-
-**Introduction:**
-Elevate your coding experience with the striking and dynamic Red and Black theme for Visual Studio Code. This meticulously crafted theme combines the power of a bold color palette with a sleek design, offering developers an immersive and visually appealing environment.
-
 **Key Features:**
 
 1. **Striking Contrast:**
