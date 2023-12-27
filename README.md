@@ -1,4 +1,4 @@
-**Key Features:**
+# Key Features
 
 1. **Striking Contrast:**
    - The red and black color scheme creates a high-contrast environment, making code elements stand out prominently.
